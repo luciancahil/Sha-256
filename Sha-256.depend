@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1622743329 source:c:\users\user\onedrive\desktop\computer programming\c++\sha-256\sha-256.cpp
+
+1622753297 source:c:\users\user\onedrive\desktop\computer programming\c++\sha-256\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
