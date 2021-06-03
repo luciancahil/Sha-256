@@ -32,8 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Sha-256.cbp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="sha-256.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
